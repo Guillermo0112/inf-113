@@ -1,0 +1,62 @@
+body{
+  background-color: white;
+}
+h1{
+  text-align: center;
+  font-family: Nevis;
+  font-size: 40px;
+}
+#caja1{
+  margin-right: 40%;
+}
+#caja2{
+  margin-right: 40%;
+}
+#qatar1{
+  text-align: center;
+}
+#liga-boliviana{
+  text-align: center;
+}
+#vacadiez{
+  text-align: center;
+}
+nav{
+  font-size: 20px;
+  text-align: center; 
+  width: 100%;
+  height: 40px;
+  background-color: #F6F6F6;
+}
+h2,h3{
+  text-align: left;
+  font-family: Nevis;
+  font-size: 40px;
+}
+h5{
+  text-align: center;
+  font-size: 10px;
+}
+p{
+  text-align: left;
+  font-family: Arial;
+  font-size: 20px;
+}
+footer{
+  border: 10px;
+  text-align: center;
+  font-family: Nevis;
+  font-size: 15px;
+}
+a:link{
+  color: black;
+  text-decoration: none;
+}
+a:visited{
+  color: black;
+  text-decoration: none;
+}
+a:hover {
+  border-bottom: solid;
+  background: #E6E6E6;
+}
